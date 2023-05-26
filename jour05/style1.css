@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    color: darkblue;
+}
+input[type="submit"] {
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+}

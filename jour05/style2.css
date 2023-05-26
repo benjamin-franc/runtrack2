@@ -1,0 +1,15 @@
+body {
+    background-color: lightgreen;
+    font-family: Courier, monospace;
+}
+
+form {
+    color: darkgreen;
+}
+
+input[type="submit"] {
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+}
